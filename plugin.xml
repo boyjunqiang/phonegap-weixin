@@ -43,7 +43,7 @@
 
         <source-file src="android/WeiXin.java"
                      target-dir="src/com/phonegap/plugins/weixin"/>
-        <source-file src="android/weixin/Util.java"
+        <source-file src="android/Util.java"
                      target-dir="src/com/phonegap/plugins/weixin"/>
 
         <source-file src="android/libammsdk.jar" target-dir="libs"/>
